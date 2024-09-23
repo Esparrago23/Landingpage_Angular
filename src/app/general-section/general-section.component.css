@@ -1,0 +1,13 @@
+.section {
+    padding: 50px 20px;
+    background-color: #2e2e2e;
+    color: white;
+    text-align: center;
+  }
+  
+  .section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
