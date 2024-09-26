@@ -5,13 +5,13 @@
   background-color: #2e2e2e;
   color: white;
   padding: 60px 20px;
-  height: 80vh; /* Ajustable según la altura que desees */
+  height: 80vh; 
   box-sizing: border-box;
 }
 
 .hero-text {
   flex: 1;
-  max-width: 50%; /* Limitar ancho de texto */
+  max-width: 50%; 
   padding-right: 20px;
 }
 
@@ -41,7 +41,7 @@
   background-color: #0056b3;
 }
 
-/* Imagen del Hero */
+
 .hero-image {
   flex: 1;
   max-width: 50%;
